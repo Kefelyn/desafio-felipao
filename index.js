@@ -3,7 +3,6 @@ let Exp = 40000
 let nivel = ""
 
 if(Exp <1000){
-    
     nivel = "Ferro" 
     console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivel)}
 
